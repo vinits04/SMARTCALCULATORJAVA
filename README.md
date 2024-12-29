@@ -5,7 +5,7 @@ In this JAVA project, I have created a console-based calculator application that
 Using a Text Editor:
 
 1.Create a folder named SmartCalculator on your PC.
-2.Inside this folder, create two files:
+2.Inside this folder, create the file:
 SmartCalculator.java
 3.Copy and paste the corresponding code into file.
 
